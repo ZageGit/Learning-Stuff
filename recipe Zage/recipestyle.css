@@ -1,0 +1,76 @@
+#head{
+	border-width: 0 0 10px 0;
+	border-style: solid;
+}
+
+/*p {
+	margin: 0 0 0 0;
+}*/
+body {
+	border-width: 2px;
+	border-style: solid;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#No1 {
+	display: flex;
+	justify-content: space-between;
+	font-size: 0.8em;
+	}
+
+#container {
+	padding: 2px 4px 2px 4px;
+}
+#headline1 {
+	align-self: flex-end;
+	margin-bottom: 0;
+}
+#top {
+	display: flex;
+	text-align: right;
+}
+
+.cereal {
+	width: 45px;
+	align-self: flex-end;
+	margin-bottom: 0;
+
+}
+
+.head {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+
+.textright {
+	text-align: right;
+	font-size: 0.8em;
+}
+
+
+#middle {
+	display: flex;
+	text-align: right;
+	align-self: flex-start;
+}
+
+#No2 {
+	display: flex;
+	justify-content: space-between;
+	font-size: 0.8em;
+	}
+
+#end {
+		display: flex;
+		font-size: 0.8em;
+		justify-content: flex-end;
+	}
+
+#last {
+	display: flex;
+	align-content: center;
+}
